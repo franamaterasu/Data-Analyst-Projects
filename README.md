@@ -24,3 +24,10 @@ Se abordarán tareas como la clasificación y filtrado de datos.
 
 A continuación, se realizarán visualizaciones sobre aspectos clave como estadísticas de rendimiento, edad, posición y nacionalidad de los jugadores, con el objetivo de extraer conclusiones útiles y destacar a aquellos que han tenido un impacto significativo en el fútbol.
 
+### Proyecto 3: **Creación y analisis de base de Datos de Videojuegos**
+
+Este proyecto se centra en la creación y analisis de una base de datos de videojuegos, incluyendo información sobre géneros, plataformas y desarrolladores.
+
+Comienza con la creación de las tablas en SQL y estableciendo las relaciones necesarias.
+
+Después la inserción de datos relevantes, y finalmente la realización de consultas para extraer información útil, analizando tendencias en la industria y el desempeño de los videojuegos y sus desarrolladores.
